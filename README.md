@@ -1,6 +1,6 @@
 ### Hi, I'm Alexander Lima! 👋
 
-- 🔭 I’m currently studying and looking for job opportunities as a front-end developer!
+- 🔭 I’m currently studying and looking for job opportunities as a software developer!
 - 🌱 I’m learning JavaScript, TypeScript, and React.
 - 📫 Contact me via email: lima.alexander.las@gmail.com
 - 😄 Pronouns: He/Him
