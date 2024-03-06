@@ -1,12 +1,11 @@
-### Olá eu sou o Alexander Silva! 👋
+### Hi, I'm Alexander Lima! 👋
 
-- 🔭 Atualmente estou estudando e a procura de oportunidades de trabalhos como desenvolvedor front-end!
-- 🌱 Estou estudando JavaScript, TypeScript e React.
-- 📫 Contate-me pelo e-mail: lima.alexander.las@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidades sobre mim: Adoro video games 🎮, meu jogo preferido é World of Warcraft 🌏 (Pela Horda!), gosto de ler livros de ficção, ouvir rock clássico e heavy metal, tenho dois gatos, Hermione 😸 e Loki 😼 e acima de tudo gosto muito de conversar!
-
-### Redes sociais
+- 🔭 I’m currently studying and looking for job opportunities as a front-end developer!
+- 🌱 I’m learning JavaScript, TypeScript, and React.
+- 📫 Contact me via email: lima.alexander.las@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun facts about me: I love video games 🎮, my favorite game is World of Warcraft 🌏 (For the Horde!), I enjoy reading fiction books, listening to classic rock and heavy metal, I have two cats, Hermione 😸 and Loki 😼, and above all, I really like to chat!
+### Social Medias
 </br>
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-silva-lima-96a0432a6/)
@@ -19,7 +18,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexttz)](https://github.com/alexttz/github-readme-stats)
 
-### Tecnologias que utilizo 💻<br/>
+###  Tecnology I Use 💻<br/>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,4 +28,5 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08DB"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
