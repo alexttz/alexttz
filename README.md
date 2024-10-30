@@ -4,7 +4,7 @@
 - 🌱 I’m learning JavaScript, TypeScript, and React.
 - 📫 Contact me via email: lima.alexander.las@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun facts about me: I love video games 🎮, my favorite game is World of Warcraft 🌏 (For the Horde!), I enjoy reading fiction books, listening to classic rock and heavy metal, I have two cats, Hermione 😸 and Loki 😼, and above all, I really like to chat!
+- ⚡ Fun facts about me: I love video games 🎮, my favorite game is World of Warcraft 🌏 (For the Horde!), I enjoy reading fiction books, listening to classic rock and heavy metal, I have two cats, Hermione 😸 and Minerva 😼, and above all, I really like to chat!
 ### Social Medias
 </br>
 
