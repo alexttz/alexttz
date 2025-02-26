@@ -1,7 +1,7 @@
 ### Hi, I'm Alexander Lima! 👋
 
-- 🔭 I’m currently studying and looking for job opportunities as a software developer!
-- 🌱 I’m learning JavaScript, TypeScript, and React.
+- 🔭 I am an IT student and passionate about technology!
+- 🌱 I’m learning Java, JavaScript, Python and more!
 - 📫 Contact me via email: lima.alexander.las@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts about me: I love video games 🎮, my favorite game is World of Warcraft 🌏 (For the Horde!), I enjoy reading fiction books, listening to classic rock and heavy metal, I have two cats, Hermione 😸 and Minerva 😼, and above all, I really like to chat!
@@ -26,4 +26,5 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white4"/>
 </div>
